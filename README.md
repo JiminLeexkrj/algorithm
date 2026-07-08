@@ -1,2 +1,2 @@
 # algorithm
-Hello GitHub!
+##algorithm study
