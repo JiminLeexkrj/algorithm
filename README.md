@@ -16,5 +16,5 @@ repository for learning algorithms, data structures, and PS.
 - C/C++
 - Python
 ---
-##☀️Today's Update
+## ☀️Today's Update
 - Learned Git Branch
